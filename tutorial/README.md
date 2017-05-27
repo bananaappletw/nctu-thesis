@@ -4,7 +4,7 @@
 2. 將 `4. 網路工程研究所論文封面 （表4）` 和 `6. 網路工程研究所論文書名頁 （表6）` 這兩頁貼上
 3. 會發覺空白字元的字距怪怪的，到 `段落`->`中文印刷格式`->`選項`->`進階` 把 `調整半形字和全形字的字距比例` 勾起來即可
 
-![](../fixtures/adjust-distance-between-character.png)
+<img src="../fixtures/adjust-distance-between-character.png" width="400px">
 
 4. 開始建立樣式
 
@@ -57,9 +57,7 @@
 
 **記得更新圖表目錄**
 
-![](../fixtures/figure.png)
-
-![](../fixtures/table.png)
+<img src="../fixtures/figure.png" width="250px"> <img src="../fixtures/table.png" width="250px">
 
 # 疑難雜症解法
 
@@ -67,4 +65,4 @@
 
 到 `表格工具` -> `版面配置` -> `內容` -> `列` -> 把 `允許列超越頁分隔線` 取消勾選
 
-![](../fixtures/table-cross-page.png)
+<img src="../fixtures/table-cross-page.png" width="250px">
