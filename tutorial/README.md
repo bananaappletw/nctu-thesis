@@ -65,6 +65,10 @@
 
 <img src="../fixtures/figure.png" width="250px"> <img src="../fixtures/table.png" width="250px">
 
+# 畫圖
+
+要畫圖的話可以用 [draw.io](https://www.draw.io/) 畫
+
 # 疑難雜症解法
 
 ## 表格會跨頁
