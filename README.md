@@ -2,6 +2,8 @@
 
 詳細製作這個樣板的步驟 [製作教學](./tutorial)
 
+[範本](./master-thesis.docx)
+
 # License
 
 ![創用 CC 授權條款](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
