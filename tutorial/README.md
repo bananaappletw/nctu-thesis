@@ -57,6 +57,10 @@
 
 **記得更新圖表目錄**
 
+![](../fixtures/figure.png)
+
+![](../fixtures/table.png)
+
 # 疑難雜症解法
 
 ## 表格會跨頁
