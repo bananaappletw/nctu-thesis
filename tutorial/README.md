@@ -1,6 +1,6 @@
 # 製作步驟
 
-## preface
+## Preface
 
 建議先重設 word，這樣才不會衝到 word 的格式，可以參照 [重設 word 教學](https://support.microsoft.com/zh-tw/help/822005/how-to-reset-user-options-and-registry-settings-in-word)
 
@@ -68,7 +68,8 @@
 英文為 `Times New Roman`，中文為 `DFKai-SB(標楷體)`
 除了從系上複製過來的論文封面和論文書名頁
 兩頁的字體維持不變以外
-其他內文字體都以這兩種為主。
+其他內文字體都以這兩種為主
+內文的文字對齊方式為 `左右對齊`
 
 # 幫圖片或表格標示文字
 
