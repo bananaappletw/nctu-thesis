@@ -4,7 +4,7 @@
 
 詳細製作這個樣板的步驟 [製作教學](./tutorial)，可以詳細了解這個樣板怎麼做出來的，還有遇到問題該如何解決
 
-可以直接使用 [範本](./master-thesis.docx)
+可以直接使用 [樣本](./master-thesis.docx)
 
 # License
 
