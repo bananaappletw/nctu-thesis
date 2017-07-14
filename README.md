@@ -8,6 +8,8 @@
 
 可以直接使用 [樣板](./master-thesis.docx)
 
+[pdf預覽](./master-thesis.pdf)
+
 # License
 
 ![創用 CC 授權條款](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
